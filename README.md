@@ -1,6 +1,4 @@
- Multi-label-Image-Classification
- 
- # ImageAI : Image Prediction
+# ImageAI : Image Prediction
 A **DeepQuest AI** project [https://deepquestai.com](https://deepquestai.com)
 
 ---
@@ -327,3 +325,4 @@ We have provided full documentation for all **ImageAI** classes and functions in
 * Documentation - **English Version  [https://imageai.readthedocs.io](https://imageai.readthedocs.io)**
 * Documentation - **Chinese Version  [https://imageai-cn.readthedocs.io](https://imageai-cn.readthedocs.io)**
 * Documentation - **French Version  [https://imageai-fr.readthedocs.io](https://imageai-fr.readthedocs.io)**
+
