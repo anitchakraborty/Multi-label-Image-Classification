@@ -1,16 +1,4 @@
 # ImageAI : Image Prediction
-A **DeepQuest AI** project [https://deepquestai.com](https://deepquestai.com)
-
----
-
-### TABLE OF CONTENTS
-- <a href="#firstprediction" > :white_square_button: First Prediction</a>
-- <a href="#predictionspeed" > :white_square_button: Prediction Speed</a>
-- <a href="#inputtype" > :white_square_button: Image Input Types</a>
-- <a href="#multiprediction" > :white_square_button: Multiple Images Prediction</a>
-- <a href="#threadprediction" > :white_square_button: Prediction in MultiThreading</a>
-- <a href="#documentation" > :white_square_button: Documentation</a>
-
 ImageAI provides 4 different algorithms and model types to perform image prediction.
 To perform image prediction on any picture, take the following simple steps.  The 4 algorithms provided for
  image prediction include **SqueezeNet**, **ResNet**, **InceptionV3** and **DenseNet**. Each of these
@@ -27,7 +15,7 @@ To perform image prediction on any picture, take the following simple steps.  Th
  and copy it to your python project's folder. Then create a python file and give it a name; an example is `FirstPrediction.py`.
       Then write the code below into the python file:
       
-### FirstPrediction.py
+### Prediction.py
 <div id="firstprediction" ></div>
 
 ```python
