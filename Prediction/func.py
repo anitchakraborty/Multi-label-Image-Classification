@@ -135,7 +135,7 @@ def K_mean(X, image_name):
 #plt.show()
 
 
-y_kmeans=K_mean(X, image_name)
+y_kmeans, centers=K_mean(X, image_name)
 def clustdf(mappings):
     cluster_center = list()
     for center in range(len(X)):
