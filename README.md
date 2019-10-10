@@ -142,14 +142,6 @@ crane : 10.620515048503876
 kite : 10.20539253950119
 white_stork : 1.6472270712256432
 -----------------------
-```
-
-
-### Prediction Speed
-<div id="predictionspeed"></div>
-
-**ImageAI** now provides prediction speeds for all image prediction tasks. The prediction speeds allow you to reduce the time of prediction at a rate between 20% - 60%, and yet having just slight changes but accurate prediction results. The available prediction speeds are **"normal"**(default), **"fast"**, **"faster"** and **"fastest"**.
-All you need to do is to state the speed mode you desire when loading the model as seen below.
 
 ```python
 prediction.loadModel(prediction_speed="fast")
@@ -302,15 +294,3 @@ class PredictionThread(threading.Thread):
 
 predictionThread = PredictionThread ()
 predictionThread.start()
-
-```
-
-
-### Documentation
-
-We have provided full documentation for all **ImageAI** classes and functions in 3 major languages. Find links below:**
-
-* Documentation - **English Version  [https://imageai.readthedocs.io](https://imageai.readthedocs.io)**
-* Documentation - **Chinese Version  [https://imageai-cn.readthedocs.io](https://imageai-cn.readthedocs.io)**
-* Documentation - **French Version  [https://imageai-fr.readthedocs.io](https://imageai-fr.readthedocs.io)**
-
